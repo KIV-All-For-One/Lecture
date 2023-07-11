@@ -3,8 +3,14 @@
 Hi, we are **'All for One'** team! 🤗
 <br>
 <br>
-We gave lectures on basic of python and AI (NLP, especially machine translation)  
+We gave lectures on **Basic of python** and **A.I** (NLP, especially machine translation)  
 for TUIT (Tashkent University of Information Technologies) students (B.S, M.S, D.R)
+<br>
+<br>
+Supported by **NIA (National Information Society Agency, 한국지능정보사회진흥원)**
+<br>
+![image](https://github.com/KIV-All-For-One/Lecture/assets/53294075/22bf88f4-8b19-4e69-81b6-0812d39d3af4) ![image](https://github.com/KIV-All-For-One/Lecture/assets/53294075/ccd2da49-6353-4eb3-a803-19581c658ee0)
+
 
 ## 📅 Periods
 - 18 July 2022 - 22 July 2022 (1 week)
